@@ -1,0 +1,7 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": { "item": "byg:ametrine_block" },
+  "value": 9,
+  "needed": 2,
+  "material": "byg:ametrine"
+}

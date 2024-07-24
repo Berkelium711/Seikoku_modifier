@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": { "item": "composite_material:etherite_nugget" },
+  "result": {
+    "fluid": "seikoku_tinker:molten_etherite",
+    "amount": 10
+  },
+  "temperature": 1250,
+  "time": 10
+}

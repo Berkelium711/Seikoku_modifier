@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": { "item": "composite_material:etherite_ingot" },
+  "result": {
+    "fluid": "seikoku_tinker:molten_etherite",
+    "amount": 90
+  },
+  "temperature": 1250,
+  "time": 90
+}
