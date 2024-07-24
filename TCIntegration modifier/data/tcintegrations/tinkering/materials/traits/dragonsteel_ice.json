@@ -1,0 +1,25 @@
+{
+  "default": [
+    {
+      "level": 1,
+      "name": "tconstruct:reach"
+    },
+    {
+      "level": 1,
+      "name": "tconstruct:freezing"
+    }
+
+  ],
+  "perStat": {
+    "tconstruct:armor": [
+      {
+        "level": 1,
+        "name": "tconstruct:protection"
+      },
+      {
+        "level": 1,
+        "name": "tcintegrations:dragonscales"
+      }
+    ]
+  }
+}
