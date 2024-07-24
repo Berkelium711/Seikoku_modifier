@@ -1,4 +1,9 @@
 {
   "itemGroup.seikoku_tinker.seikoku_tinker": "性国工匠",
-  "item.seikoku_tinker.xinglium": "性元素"
+  "item.seikoku_tinker.xinglium": "性元素",
+  "block.seikoku_tinker.molten_ametrine": "熔融紫黄晶",
+  "fluid_type.seikoku_tinker.molten_ametrine": "熔融紫黄晶",
+  "fluid_type.seikoku_tinker.molten_ametrine_flowing": "流动的熔融紫黄晶",
+  "item.seikoku_tinker.molten_ametrine_bucket": "熔融紫黄晶桶"
+  
   }
