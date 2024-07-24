@@ -4,13 +4,7 @@
       "level": 1,
       "name": "tconstruct:ductile"
     }
-  ],
-  "perStat": {
-    "tconstruct:armor": [
-      {
-        "level": 1,
-        "name": "tconstruct:protection"
-      }
-    ]
-  }
+  ]
+  
+  
 }
