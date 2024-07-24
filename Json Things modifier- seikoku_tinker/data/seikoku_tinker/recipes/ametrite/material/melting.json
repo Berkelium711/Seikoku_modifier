@@ -1,6 +1,6 @@
 {
   "type": "tconstruct:material_melting",
-  "input": "seikoku_tinker:ametrite_gems",
+  "input": "seikoku_tinker:ametrite",
   "temperature": 1250,
   "result": {
     "fluid": "seikoku_tinker:molten_ametrite",
