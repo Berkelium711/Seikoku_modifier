@@ -1,0 +1,9 @@
+{
+    "type": "tconstruct:material_fluid",
+    "fluid": {
+        "fluid": "seikoku_tinker:molten_echolium",
+        "amount": 180
+    },
+    "temperature": 1200,
+    "output": "composite_material:echolium_ingot"
+}
