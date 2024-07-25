@@ -1,0 +1,11 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": { "tag": "tconstruct:casts/multi_use/ingot" },
+  "cast_consumed": false,
+  "fluid": {
+    "fluid": "seikoku_tinker:molten_stratue",
+    "amount": 90
+  },
+  "result": "deep_aether:stratus_ingot",
+  "cooling_time": 90
+}
