@@ -1,0 +1,21 @@
+{
+  "default": [
+    {
+      "level": 1,
+      "name": "tconstruct:unbreakable"
+    }
+
+  ],
+  "perStat": {
+    "tconstruct:armor": [
+      {
+        "level": 1,
+        "name": "tconstruct:unbreakable"
+      },
+      {
+        "level":1,
+        "name":"tconstruct:revitalizing"
+      }
+    ]
+  }
+}

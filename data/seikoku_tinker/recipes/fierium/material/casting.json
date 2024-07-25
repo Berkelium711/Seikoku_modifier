@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "fluid": "seikoku_tinker:molten_fierium",
+    "amount": 180
+  },
+  "temperature": 1250,
+  "output": "seikoku_tinker:fierium"
+}

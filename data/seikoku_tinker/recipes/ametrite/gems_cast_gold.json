@@ -1,0 +1,11 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": { "tag": "tconstruct:casts/multi_use/gem" },
+  "cast_consumed": false,
+  "fluid": {
+    "fluid": "seikoku_tinker:molten_ametrite",
+    "amount": 100
+  },
+  "result": "seikoku_tinker:ametrite_gems",
+  "cooling_time": 125
+}

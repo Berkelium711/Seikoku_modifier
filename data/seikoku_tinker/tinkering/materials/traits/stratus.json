@@ -1,0 +1,21 @@
+{
+  "default": [
+    {
+      "level": 1,
+      "name": "tconstruct:dragonborn"
+    }
+
+  ],
+  "perStat": {
+    "tconstruct:armor": [
+      {
+        "level": 1,
+        "name": "tconstruct:long_fall"
+      },
+      {
+        "level": 1,
+        "name": "tconstruct:double_jump"
+      }
+    ]
+  }
+}

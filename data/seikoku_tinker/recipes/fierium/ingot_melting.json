@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": { "item": "twilightforest:fiery_ingot" },
+  "result": {
+    "fluid": "seikoku_tinker:molten_fierium",
+    "amount": 90
+  },
+  "temperature": 1250,
+  "time": 90
+}

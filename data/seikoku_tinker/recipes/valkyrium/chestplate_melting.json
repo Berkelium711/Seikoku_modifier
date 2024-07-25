@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": { "item": "aether:valkyrie_chestplate" },
+  "result": {
+    "fluid": "seikoku_tinker:molten_valkyrium",
+    "amount": 720
+  },
+  "temperature": 1250,
+  "time": 720
+}

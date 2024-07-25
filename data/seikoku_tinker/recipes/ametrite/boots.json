@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "p p",
+    "p p"
+  ],
+  "key": {
+    "p": { "item": "seikoku_tinker:ametrite_gems" }
+  },
+  "result": {
+    "item": "byg:ametrine_boots"
+  }
+}

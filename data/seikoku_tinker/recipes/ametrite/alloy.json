@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    { "tag": "tconstruct:molten_diamond",     "amount":   100 },
+    { "fluid": "seikoku_tinker:molten_ametrine",    "amount":  100 }
+  ],
+  "result": {
+    "fluid": "seikoku_tinker:molten_ametrite",
+    "amount": 100
+  },
+  "temperature": 1250
+}
