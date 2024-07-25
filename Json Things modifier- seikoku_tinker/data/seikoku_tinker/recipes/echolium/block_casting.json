@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+    "fluid": {
+        "fluid": "seikoku_tinker:molten_echolium",
+        "amount": 810
+    },
+  "result": "composite_material:echolium_block",
+  "cooling_time": 900
+}
