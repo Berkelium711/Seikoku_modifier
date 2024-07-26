@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "delightful:cantaloupe_slice"
+    }
+  },
+  "pattern": [
+    "   ",
+    " X ",
+    "   "
+  ],
+  "result": {
+    "item": "fruitsdelight:hamimelon_slice"
+  }
+}

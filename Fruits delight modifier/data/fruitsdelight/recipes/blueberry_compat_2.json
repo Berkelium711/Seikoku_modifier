@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "byg:blueberries"
+    }
+  },
+  "pattern": [
+    "   ",
+    " X ",
+    "   "
+  ],
+  "result": {
+    "item": "fruitsdelight:blueberry"
+  }
+}
