@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": { "item": "aether:phoenix_boots" },
+  "result": {
+    "fluid": "seikoku_tinker:molten_phoenixium",
+    "amount": 360
+  },
+  "temperature": 1250,
+  "time": 360
+}

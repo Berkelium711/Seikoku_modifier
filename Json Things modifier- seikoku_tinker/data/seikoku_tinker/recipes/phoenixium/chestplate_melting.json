@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": { "item": "aether:phoenix_chestplate" },
+  "result": {
+    "fluid": "seikoku_tinker:molten_phoenixium",
+    "amount": 720
+  },
+  "temperature": 1250,
+  "time": 720
+}

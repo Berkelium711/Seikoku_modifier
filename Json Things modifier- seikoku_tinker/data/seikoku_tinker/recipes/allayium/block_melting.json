@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+    "ingredient": { "item": "composite_material:allay_steel_block" },
+    "result": {
+        "fluid": "seikoku_tinker:molten_allayium",
+        "amount": 810
+    },
+  "temperature": 1200,
+  "time": 900
+}

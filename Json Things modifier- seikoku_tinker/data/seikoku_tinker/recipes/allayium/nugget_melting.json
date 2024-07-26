@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+    "ingredient": { "item": "composite_material:allay_steel_nugget" },
+    "result": {
+        "fluid": "seikoku_tinker:molten_allayium",
+        "amount": 10
+    },
+  "temperature": 1200,
+  "time": 10
+}

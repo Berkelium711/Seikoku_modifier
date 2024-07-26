@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": { "item": "aether:phoenix_gloves" },
+  "result": {
+    "fluid": "seikoku_tinker:molten_phoenixium",
+    "amount": 180
+  },
+  "temperature": 1250,
+  "time": 180
+}

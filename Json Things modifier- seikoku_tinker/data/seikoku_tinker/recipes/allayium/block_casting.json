@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+    "fluid": {
+        "fluid": "seikoku_tinker:molten_allayium",
+        "amount": 810
+    },
+  "result": "composite_material:allay_steel_block",
+  "cooling_time": 900
+}
