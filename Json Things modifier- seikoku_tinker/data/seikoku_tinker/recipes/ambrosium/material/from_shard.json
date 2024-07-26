@@ -1,7 +1,0 @@
-{
-  "type": "tconstruct:material",
-  "ingredient": { "item": "aether:ambrosium_shard" },
-  "value": 1,
-  "needed": 2,
-  "material": "seikoku_tinker:ambrosium"
-}

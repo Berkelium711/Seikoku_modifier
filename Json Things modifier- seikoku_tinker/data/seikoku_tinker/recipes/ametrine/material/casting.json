@@ -1,9 +1,0 @@
-{
-  "type": "tconstruct:material_fluid",
-  "fluid": {
-    "fluid": "seikoku_tinker:molten_ametrine",
-    "amount": 200
-  },
-  "temperature": 1250,
-  "output": "byg:ametrine_gems"
-}
