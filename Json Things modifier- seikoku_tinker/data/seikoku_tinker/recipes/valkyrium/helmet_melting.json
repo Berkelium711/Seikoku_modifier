@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": { "item": "aether:valkyrie_helmet" },
+  "result": {
+    "fluid": "seikoku_tinker:molten_valkyrium",
+    "amount": 450
+  },
+  "temperature": 1250,
+  "time": 450
+}

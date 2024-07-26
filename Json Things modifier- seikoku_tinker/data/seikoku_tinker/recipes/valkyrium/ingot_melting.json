@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": { "item": "seikoku_tinker:valkyrium_ingot" },
+  "result": {
+    "fluid": "seikoku_tinker:molten_valkyrium",
+    "amount": 90
+  },
+  "temperature": 1250,
+  "time": 90
+}

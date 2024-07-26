@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": { "item": "byg:ametrine_gems" },
+  "result": {
+    "fluid": "seikoku_tinker:molten_ametrine",
+    "amount": 100
+  },
+  "temperature": 1250,
+  "time": 125
+}
