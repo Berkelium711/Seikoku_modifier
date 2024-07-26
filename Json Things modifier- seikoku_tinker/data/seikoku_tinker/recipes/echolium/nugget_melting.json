@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+    "ingredient": { "item": "composite_material:echoium_nugget" },
+    "result": {
+        "fluid": "seikoku_tinker:molten_echolium",
+        "amount": 10
+    },
+  "temperature": 1200,
+  "time": 10
+}

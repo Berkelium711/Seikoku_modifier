@@ -1,0 +1,9 @@
+{
+    "type": "tconstruct:material_melting",
+    "input": "seikoku_tinker:echolium",
+    "temperature": 1200,
+    "result": {
+        "fluid": "seikoku_tinker:molten_echolium",
+        "amount": 180
+    }
+}

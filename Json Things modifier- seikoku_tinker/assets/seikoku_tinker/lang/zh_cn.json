@@ -33,5 +33,13 @@
   "fluid_type.seikoku_tinker.molten_fierium": "熔融炽铁",
   "fluid_type.seikoku_tinker.molten_fierium_flowing": "流动的熔融炽铁",
   "item.seikoku_tinker.molten_fierium_bucket": "熔融炽铁桶",
-  "material.seikoku_tinker.fierium":"炽铁"
+  "material.seikoku_tinker.fierium":"炽铁",
+  "block.seikoku_tinker.molten_echolium": "熔融回响合金",
+  "fluid_type.seikoku_tinker.molten_echolium": "熔融回响合金",
+  "fluid_type.seikoku_tinker.molten_echolium_flowing": "流动的熔融回响合金",
+  "item.seikoku_tinker.molten_echolium_bucket": "熔融回响合金桶",
+  "material.seikoku_tinker.echolium":"回响合金",
+  "modifier.seikoku_tinker.echo": "回响",
+  "modifier.seikoku_tinker.echo.flavor": "如监守者一般",
+  "modifier.seikoku_tinker.echo.description": "无视受攻击角色的所有护甲值"
   }

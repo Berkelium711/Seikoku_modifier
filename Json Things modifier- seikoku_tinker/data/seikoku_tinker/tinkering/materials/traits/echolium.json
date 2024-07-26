@@ -1,0 +1,17 @@
+{
+  "default": [
+    {
+      "level": 1,
+      "name": "seikoku_tinker:echo"
+    }
+
+  ],
+  "perStat": {
+    "tconstruct:armor": [
+      {
+        "level": 2,
+        "name": "tconstruct:knockback_resistance"
+      }
+    ]
+  }
+}
