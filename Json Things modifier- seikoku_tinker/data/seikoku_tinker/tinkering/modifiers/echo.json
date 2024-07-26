@@ -5,7 +5,7 @@
     {
       "type": "tconstruct:melee_attribute",
       "attribute": "minecraft:generic.armor",
-      "each_level": -100.0,
+      "each_level": -8.0,
       "operation": "addition",
       "unique": "tconstruct.modifier.pierce"
     }
