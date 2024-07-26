@@ -41,5 +41,16 @@
   "material.seikoku_tinker.echolium":"回响合金",
   "modifier.seikoku_tinker.echo": "回响",
   "modifier.seikoku_tinker.echo.flavor": "如监守者一般",
-  "modifier.seikoku_tinker.echo.description": "无视受攻击角色的所有护甲值"
+  "modifier.seikoku_tinker.echo.description": "无视受攻击角色的所有护甲值",
+  "block.seikoku_tinker.molten_allayium": "熔融悦灵合金",
+  "fluid_type.seikoku_tinker.molten_allayium": "熔融悦灵合金",
+  "fluid_type.seikoku_tinker.molten_allayium_flowing": "流动的熔融悦灵合金",
+  "item.seikoku_tinker.molten_allayium_bucket": "熔融悦灵合金桶",
+  "material.seikoku_tinker.allayium":"悦灵合金",
+  "block.seikoku_tinker.molten_phoenixium": "熔融凤凰合金",
+  "fluid_type.seikoku_tinker.molten_phoenixium": "熔融凤凰合金",
+  "fluid_type.seikoku_tinker.molten_phoenixium_flowing": "流动的熔融凤凰合金",
+  "item.seikoku_tinker.molten_phoenixium_bucket": "熔融凤凰合金桶",
+  "item.seikoku_tinker.phoenixium_ingot": "凤凰合金锭",
+  "material.seikoku_tinker.phoenixium":"凤凰合金"
   }
