@@ -1,9 +1,0 @@
-{
-  "type": "tconstruct:material_fluid",
-  "fluid": {
-    "fluid": "seikoku_tinker:molten_stratus",
-    "amount": 180
-  },
-  "temperature": 1250,
-  "output": "seikoku_tinker:stratus"
-}

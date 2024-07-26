@@ -1,9 +1,0 @@
-{
-  "type": "tconstruct:material_melting",
-  "input": "seikoku_tinker:etherite",
-  "temperature": 1250,
-  "result": {
-    "fluid": "seikoku_tinker:molten_etherite",
-    "amount": 180
-  }
-}
