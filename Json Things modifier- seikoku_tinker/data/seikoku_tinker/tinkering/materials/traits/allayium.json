@@ -1,0 +1,17 @@
+{
+  "default": [
+    {
+      "level": 1,
+      "name": "tconstruct:expanded"
+    }
+
+  ],
+  "perStat": {
+    "tconstruct:armor": [
+      {
+        "level": 1,
+        "name": "tconstruct:speedy"
+      }
+    ]
+  }
+}
