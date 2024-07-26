@@ -1,0 +1,48 @@
+{
+  "stats": {
+    "tconstruct:binding": {},
+    "tconstruct:handle": {
+      "durability": 0.3,
+      "mining_speed": 0.55,
+      "melee_speed": -0.1,
+      "melee_damage": -0.15
+    },
+    "tconstruct:head": {
+      "durability": 1145,
+      "mining_speed": 9.5,
+      "mining_tier": "tinkers_things:hematite",
+      "melee_attack": 1.5
+    },
+    
+    "tconstruct:maille": {},
+    "tconstruct:plating_helmet": {
+      "armor": 5.0,
+      "durability": 374,
+      "knockback_resistance": 0.075,
+      "toughness": 3.0
+    },
+    "tconstruct:plating_chestplate": {
+      "armor": 10.0,
+      "durability": 544,
+      "knockback_resistance": 0.075,
+      "toughness": 2.5
+    },
+    "tconstruct:plating_leggings": {
+      "armor": 10.0,
+      "durability": 510,
+      "knockback_resistance": 0.075,
+      "toughness": 2.5
+    },
+    "tconstruct:plating_boots": {
+      "armor": 5.0,
+      "durability": 442,
+      "knockback_resistance": 0.075,
+      "toughness": 2.5
+    },
+    "tconstruct:plating_shield": {
+      "durability": 630,
+      "knockback_resistance": 0.075,
+      "toughness": 2.5
+    }
+  }
+}

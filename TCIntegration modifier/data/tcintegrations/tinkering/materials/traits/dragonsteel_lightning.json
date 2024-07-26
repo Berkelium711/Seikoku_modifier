@@ -1,0 +1,29 @@
+{
+  "default": [
+    {
+      "level": 1,
+      "name": "tconstruct:reach"
+    },
+    {
+      "level": 1,
+      "name": "tconstruct:swiftstrike"
+    }
+
+  ],
+  "perStat": {
+    "tconstruct:armor": [
+      {
+        "level": 1,
+        "name": "tconstruct:protection"
+      },
+      {
+        "level": 1,
+        "name": "tcintegrations:dragonscales"
+      },
+      {
+        "level":1,
+        "name":"tconstruct:reach"
+      }
+    ]
+  }
+}
